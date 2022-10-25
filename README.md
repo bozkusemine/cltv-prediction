@@ -1,4 +1,5 @@
-# cltv-prediction
+# CLTV PREDICTION
+
 We load the data named ‘Online Retail II Data Set’ from the UCI Machine Learning Repository database and start the process. https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 **Data Set Information:**
